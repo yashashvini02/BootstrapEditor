@@ -1,0 +1,12 @@
+body{
+height:100vh;
+}
+.js,.css,.html{
+    display:flex ;
+    font-size: larger;
+    justify-content: center;
+}
+.Out{
+   
+    padding-left: 10px;
+}
